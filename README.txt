@@ -1,5 +1,8 @@
 # LevelUp
 
+repo correto:
+https://github.com/samaravictoria/level_up.git
+
 ## 🌟 Sobre o Projeto
 **LevelUp** é um aplicativo inovador que integra **bem-estar, sociabilidade e produtividade no trabalho** de forma gamificada.  
 O objetivo é engajar equipes, permitindo que as empresas designem **Quests (tasks)** para seus times e recompensem os usuários conforme completam tarefas.
