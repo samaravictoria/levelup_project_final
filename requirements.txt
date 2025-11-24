@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gunicorn
+python-multipart
+numpy
+pillow
+opencv-python-headless==4.8.1.78
+tensorflow==2.12.*
+retina-face
+deepface==0.0.93
+httpx
